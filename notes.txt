@@ -1,0 +1,45 @@
+# CyberMine - Notas Internas
+
+Fecha: 2025-02-19  
+Autor: Mike (Becario de Ciberseguridad)  
+
+---
+
+**Sobre CyberMine:**  
+CyberMine es líder en soluciones avanzadas de ciberseguridad y minería de datos. Fundada en 2012, la empresa se especializa en proteger infraestructuras críticas y ofrecer inteligencia de amenazas personalizadas para sus clientes.
+
+**Proyectos en curso:**  
+1. **Project Sentinel:**  
+   Plataforma de detección proactiva de amenazas basada en IA. Actualmente en fase beta con tres clientes internacionales.  
+
+2. **MineSecure:**  
+   Sistema de seguridad para proteger redes de minería de datos contra ataques de día cero. Lanzamiento oficial previsto para el Q3 de 2024.
+
+3. **VulnTracker:**  
+   Herramienta para identificar vulnerabilidades en tiempo real en entornos corporativos. En fase de desarrollo, pero con una versión demo funcional.  
+
+---
+
+**Notas Internas:**  
+- El equipo de desarrollo ha solicitado una revisión completa de la política de contraseñas. Actualmente, muchos empleados siguen usando contraseñas débiles como *"CyberMine2023"* o *"Password123"*. Urgente actualizar. ⚠️  
+
+- Se ha detectado actividad inusual en los repositorios Git. El equipo sospecha de posibles intentos de manipulación de archivos críticos. Se recomienda realizar auditorías regulares.  
+
+---
+
+**Próxima reunión:**  
+- Fecha: 2025-02-21  
+- Tema: Estrategias para mejorar la seguridad interna y revisión de las políticas de backup.
+
+---
+
+**To-Do del becario:**  
+- [x] Actualizar manual de soporte.  
+- [ ] Revisar los backups. 
+- [ ] Revisar procedimientos de seguridad.  
+- [ ] Verificar el archivo `flag.txt`. (???)
+
+---
+
+**Comentario final:**  
+*“No olvides: en ciberseguridad, el mayor riesgo suele ser el humano.”* 🛡️  
